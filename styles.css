@@ -61,7 +61,7 @@ main{
 
 .mensaje{
     background: #fff;
-    background-image: url(/Imagenes/Muñeco.svg);
+    background-image: url(Imagenes/Muñeco.svg);
     background-repeat: no-repeat;
     background-position: center;
     border: none;
